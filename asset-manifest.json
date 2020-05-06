@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-temperature/static/css/main.381358d2.chunk.css",
+    "main.js": "/react-temperature/static/js/main.efdba99a.chunk.js",
+    "main.js.map": "/react-temperature/static/js/main.efdba99a.chunk.js.map",
+    "runtime-main.js": "/react-temperature/static/js/runtime-main.8f7a256f.js",
+    "runtime-main.js.map": "/react-temperature/static/js/runtime-main.8f7a256f.js.map",
+    "static/js/2.12065831.chunk.js": "/react-temperature/static/js/2.12065831.chunk.js",
+    "static/js/2.12065831.chunk.js.map": "/react-temperature/static/js/2.12065831.chunk.js.map",
+    "index.html": "/react-temperature/index.html",
+    "precache-manifest.5e9530b1203a2fe2f516bc3b19ccd316.js": "/react-temperature/precache-manifest.5e9530b1203a2fe2f516bc3b19ccd316.js",
+    "service-worker.js": "/react-temperature/service-worker.js",
+    "static/css/main.381358d2.chunk.css.map": "/react-temperature/static/css/main.381358d2.chunk.css.map",
+    "static/js/2.12065831.chunk.js.LICENSE.txt": "/react-temperature/static/js/2.12065831.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f7a256f.js",
+    "static/js/2.12065831.chunk.js",
+    "static/css/main.381358d2.chunk.css",
+    "static/js/main.efdba99a.chunk.js"
+  ]
+}
