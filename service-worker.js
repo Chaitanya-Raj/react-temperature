@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-temperature/precache-manifest.5e9530b1203a2fe2f516bc3b19ccd316.js"
+  "/react-temperature/precache-manifest.7492b69c5f5d14fed86c71d4c69eabb5.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "671510a07cfc5f278b8b8dee57129b90",
+    "revision": "f39c10bca2e12889313ac169a19af822",
     "url": "/react-temperature/index.html"
   },
   {
-    "revision": "b8d0895f2c6fb9433e4d",
-    "url": "/react-temperature/static/css/main.381358d2.chunk.css"
+    "revision": "983124facdf08a81796d",
+    "url": "/react-temperature/static/css/main.c94d6e7d.chunk.css"
   },
   {
     "revision": "b81cad0ef280014cc560",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-temperature/static/js/2.12065831.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8d0895f2c6fb9433e4d",
-    "url": "/react-temperature/static/js/main.efdba99a.chunk.js"
+    "revision": "983124facdf08a81796d",
+    "url": "/react-temperature/static/js/main.06b5d328.chunk.js"
   },
   {
     "revision": "64d91d6a36e5d1c7d659",

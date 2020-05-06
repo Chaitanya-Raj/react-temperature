@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-temperature/static/css/main.381358d2.chunk.css",
-    "main.js": "/react-temperature/static/js/main.efdba99a.chunk.js",
-    "main.js.map": "/react-temperature/static/js/main.efdba99a.chunk.js.map",
+    "main.css": "/react-temperature/static/css/main.c94d6e7d.chunk.css",
+    "main.js": "/react-temperature/static/js/main.06b5d328.chunk.js",
+    "main.js.map": "/react-temperature/static/js/main.06b5d328.chunk.js.map",
     "runtime-main.js": "/react-temperature/static/js/runtime-main.8f7a256f.js",
     "runtime-main.js.map": "/react-temperature/static/js/runtime-main.8f7a256f.js.map",
     "static/js/2.12065831.chunk.js": "/react-temperature/static/js/2.12065831.chunk.js",
     "static/js/2.12065831.chunk.js.map": "/react-temperature/static/js/2.12065831.chunk.js.map",
     "index.html": "/react-temperature/index.html",
-    "precache-manifest.5e9530b1203a2fe2f516bc3b19ccd316.js": "/react-temperature/precache-manifest.5e9530b1203a2fe2f516bc3b19ccd316.js",
+    "precache-manifest.7492b69c5f5d14fed86c71d4c69eabb5.js": "/react-temperature/precache-manifest.7492b69c5f5d14fed86c71d4c69eabb5.js",
     "service-worker.js": "/react-temperature/service-worker.js",
-    "static/css/main.381358d2.chunk.css.map": "/react-temperature/static/css/main.381358d2.chunk.css.map",
+    "static/css/main.c94d6e7d.chunk.css.map": "/react-temperature/static/css/main.c94d6e7d.chunk.css.map",
     "static/js/2.12065831.chunk.js.LICENSE.txt": "/react-temperature/static/js/2.12065831.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f7a256f.js",
     "static/js/2.12065831.chunk.js",
-    "static/css/main.381358d2.chunk.css",
-    "static/js/main.efdba99a.chunk.js"
+    "static/css/main.c94d6e7d.chunk.css",
+    "static/js/main.06b5d328.chunk.js"
   ]
 }
